@@ -4,7 +4,7 @@
   <h1><img src="https://raw.githubusercontent.com/martinbroadhurst/martinbroadhurst/main/assets/hi.gif" width="30px"> Hi, I'm <span style="color:#FF1493;">Harish Palanisamy</span></h1>
   
   <p align="center">
-    <b>Data & Business Analytics Specialist | Software Developer</b>
+    <b>Data & Business Analytics Specialistr</b>
   </p>
 
   <!-- Typing Effect Subtitle -->
