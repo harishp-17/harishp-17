@@ -71,22 +71,20 @@ Data-driven <strong>B.Tech CSBS</strong> student specializing in Data Analysis, 
 
 ---
 
+## 🏙️ `sys.matrix_render()` // Cyber Activity City View
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishp-17&theme=cyberpunk" width="100%" />
+</p>
+
+---
+
 ## 🌌 3D Contribution Field
 
 ![3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=harishp-17&theme=neon)
 
 ---
 
-## 🐍 `snake.exe` // Data Ingestion Protocol
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishp-17/harishp-17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishp-17/harishp-17/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harishp-17/harishp-17/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harishp-17&color=00f2fe&style=flat-square&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=harishp-17&color=00f2fe&style=flat-square&label=Access%20Count" alt="Profile Views" />
 </p>
