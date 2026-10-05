@@ -135,29 +135,30 @@ A real-time webchat platform built to scale.
 
 <div align="center">
 
+<img src="https://img.shields.io/github/followers/harishp-17?style=for-the-badge&logo=github&logoColor=00F7FF&color=0D1117&labelColor=0D1117" alt="followers"/>
+<img src="https://img.shields.io/github/stars/harishp-17?style=for-the-badge&logo=github&logoColor=00F7FF&color=0D1117&labelColor=0D1117" alt="stars"/>
+<img src="https://img.shields.io/badge/Public%20Repos-Check%20Below-8A2BE2?style=for-the-badge&logo=github" alt="repos"/>
+
+<br/><br/>
+
 <table>
 <tr>
 <td align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harishp-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&include_all_commits=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harishp-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2" alt="GitHub stats"/>
 </td>
 <td align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishp-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&langs_count=8" alt="top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishp-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&langs_count=8" alt="Top languages"/>
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=harishp-17&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6F00&currStreakLabel=00F7FF" alt="streak" width="85%"/>
+<img src="https://streak-stats.demolab.com/?user=harishp-17&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" width="90%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishp-17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FFFFFF" alt="activity graph" width="95%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=harishp-17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishp-17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FFFFFF" alt="Activity graph" width="95%"/>
 
 </div>
-
 ---
 
 ## 🎯 Currently
@@ -172,9 +173,11 @@ A real-time webchat platform built to scale.
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harishp-17/harishp-17/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishp-17/harishp-17/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/harishp-17/harishp-17/output/github-contribution-grid-snake.svg" width="95%">
+  </picture>
 </div>
-
 ---
 
 ## 🌐 Connect With Me
