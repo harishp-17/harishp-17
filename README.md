@@ -1,90 +1,195 @@
-<!-- HIGH-TECH BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=retro&color=00f2fe&height=220&section=header&text=HARISH%20PALANISAMY&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=DATA%20ANALYST%20//%20BUSINESS%20ANALYTICS%20%26%20SDE&descSize=18&descAlign=50&descAlignVertical=160" width="100%" />
-</p>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<!-- GLOWING TYPING SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF7F&center=true&vcenter=true&width=600&lines=Data+Analyst+%26+Business+Analytics;Transforming+Raw+Data+into+Actionable+Insights;B.Tech+CSBS+@+V.S.B.+Engineering+College;Ex-SDE+Intern+@+Infosys" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Harish%20Palanisamy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20Full%20Stack%20Builder&descSize=18&descAlignY=58" width="100%" alt="header banner"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Harish+Palanisamy;Turning+raw+data+into+business+decisions;Python+%7C+SQL+%7C+Excel+%7C+Dashboards;B.Tech+CSBS+%40+V.S.B.+Engineering+College;Open+to+Data+%2F+Business+Analyst+roles+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-## 👨‍💻 `whoami` // Profile Overview
+<br/>
 
-<p align="left">
-Data-driven <strong>B.Tech CSBS</strong> student specializing in Data Analysis, Business Analytics, and Financial Modeling[cite: 1]. Passionate about turning raw datasets into actionable insights using Python, SQL, and MS Excel, while engineering robust software solutions[cite: 1].
-</p>
+<img src="https://komarev.com/ghpvc/?username=harishp-17&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00F7FF?style=for-the-badge&logo=target&logoColor=black" alt="open to work"/>
+<img src="https://img.shields.io/badge/CGPA-7.93%2F10-8A2BE2?style=for-the-badge" alt="cgpa"/>
 
-### 📡 Core Matrix:
-- 🎓 **Education:** B.Tech in Computer Science & Business Systems @ V.S.B. Engineering College (CGPA: 7.93)[cite: 1]
-- 💼 **Experience:** Ex-SDE Intern @ **Infosys**[cite: 1] | Business Analytics Intern @ **Coding Samurai**[cite: 1]
-- 🎯 **Focus Areas:** Financial Analytics (ROE/ROCE)[cite: 1], ML Dashboards[cite: 1], High-Concurrency Web Applications[cite: 1]
-- 📬 **Connect:** [LinkedIn](https://linkedin.com/in/harish-p-137857300)[cite: 1] | **phari9074@gmail.com**[cite: 1]
+</div>
 
 ---
 
-## 🛠️ `sys.get_skills()` // Tech Arsenal
+## 🧠 About Me
 
-<p align="center">
-  <!-- Analytics & Data -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business_Analytics-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Visualization-00D2FF?style=for-the-badge" />
-  <br>
-  <!-- Dev & Tools -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+```yaml
+name: Harish Palanisamy
+role: Data Analyst / Business Analyst (aspiring)
+education: B.Tech CSBS @ V.S.B. Engineering College (2024 - 2028)
+focus: [Data Analysis, Business Analytics, Dashboards, Financial Metrics]
+status: Open to internships & full-time opportunities
+```
 
----
-
-## 🚀 `sys.featured_projects()` // Highlighted Builds
-
-### 📊 **ML Financial Analysis**
-- Built an ML-powered stock analysis web application using **Python, Flask, MySQL, and Financial APIs**[cite: 1].
-- Generated interactive financial dashboards displaying **ROE/ROCE metrics**, ML-derived investment insights, dynamic balance sheets, and cash-flow tables[cite: 1].
-
-### 💬 **Chatterbox Enterprise (Real-Time Chat Platform)**
-- Architected a **FastAPI WebSocket platform** supporting **1000+ concurrent users with <100ms latency**[cite: 1].
-- Integrated **SQLite persistence**, bcrypt auth, a 5-strike AI moderation system, and containerized deployment via **Docker**[cite: 1].
+- 📊 **Data-driven CSBS student** specializing in Data Analysis and Business Analytics
+- 🔍 Turn raw datasets into **actionable business insights** using Python, SQL and MS Excel
+- 📈 Built **end-to-end analytics dashboards** and financial models (ROE / ROCE, balance sheet, P&L, cash flow)
+- 💬 Strong at **KPI reporting, requirements gathering and stakeholder collaboration**
+- ⚡ Built a real-time chat platform serving **1000+ concurrent users under 100ms latency**
+- 👨‍💻 **Lead Coordinator** of my college Coding Club: organizing events and mentoring peers
+- 🎯 **Goal:** apply analytical, visualization and problem-solving skills to real-world business problems
 
 ---
 
-## 📈 `git.query_performance()` // Performance Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=harishp-17&show_icons=true&theme=cyberpunk&count_private=true&include_all_commits=true&hide_border=true&icon_color=00f2fe&text_color=ffffff&title_color=ff0055&rank_icon=github"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishp-17&layout=compact&theme=cyberpunk&hide_border=true&langs_count=8&title_color=ff0055&text_color=ffffff&icon_color=00f2fe"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harishp-17&theme=cyberpunk&hide_border=true&mode=daily&ring_color=00f2fe&fire_color=ff0055&curr_streak_color=47ff82" alt="GitHub Streak" />
-</p>
+### 📊 Data Analysis & BI
+<img src="https://skillicons.dev/icons?i=python,mysql,excel&theme=dark" alt="data"/>
+<br/>
+<img src="https://img.shields.io/badge/Dashboarding-0078D4?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/KPI%20Reporting-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROE%20%2F%20ROCE-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pivot%20Tables%20%7C%20VLOOKUP-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" alt="languages"/>
+
+### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" alt="backend"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API%20Integration-009688?style=for-the-badge"/>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="databases"/>
+
+### ☁️ DevOps & Deployment
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" alt="devops"/>
+
+### 🧰 Tools & Methods
+<img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" alt="tools"/>
+<img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireframing-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🏙️ `sys.matrix_render()` // Cyber Activity City View
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishp-17&theme=cyberpunk" width="100%" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 ML Financial Analysis
+**Stack:** `Python` `Flask` `MySQL` `Financial APIs` `Machine Learning`
+
+An end-to-end ML-powered stock analysis web app that ingests company fundamentals and computes long-term growth and quality metrics for investment decisions.
+
+- 📊 Interactive dashboards with **ROE / ROCE cards** and ML-derived insights
+- 🧾 Dynamic **balance sheet, P&L and cash-flow** tables
+- 🔌 Live data via external financial APIs
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/harishp-17/YOUR-REPO-NAME)
+[![Demo](https://img.shields.io/badge/Live%20Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR-DEMO-LINK)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Chatterbox Enterprise
+**Stack:** `FastAPI` `WebSocket` `SQLite` `Docker` `bcrypt`
+
+A real-time webchat platform built to scale.
+
+- ⚡ Handles **1000+ concurrent users** at **under 100ms latency**
+- 🏁 Delivered all milestones **ahead of the 8-week schedule**
+- 🔐 bcrypt auth + progressive **5-strike AI moderation**
+- 🛠️ Admin dashboard with real-time stats and **CSV export**
+- 🐳 Dockerized; custom **Pub-Sub ConnectionManager** fixed CORS and SQLite threading issues
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/harishp-17/YOUR-REPO-NAME)
+[![Demo](https://img.shields.io/badge/Live%20Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR-DEMO-LINK)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌌 3D Contribution Field
+## 💼 Experience & Highlights
 
-![3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=harishp-17&theme=neon)
+| 🗓️ Period | 🏢 Role | 🔧 What I Did |
+|:---|:---|:---|
+| **Dec 2025 – Mar 2026** | **SDE Intern** · Infosys | Engineered end-to-end software modules, optimized code and database operations, lowered latency, and improved reliability for production readiness |
+| **Oct 2025 – Dec 2025** | **Business Analytics Intern** · Coding Samurai | Analyzed multi-source datasets with SQL & Excel to find trends, bottlenecks and KPIs; presented insights through clear visualizations to stakeholders |
+| **2024 – Present** | **Lead Coordinator** · College Coding Club | Organized coding events and mentored peers |
+| **2024 – 2028** | **B.Tech CSBS** · V.S.B. Engineering College | Current CGPA 7.93 / 10 |
+
+### 🎓 Certifications
+![Business Analytics](https://img.shields.io/badge/Introduction%20to%20Business%20Analytics-0A66C2?style=flat-square)
+![Excel](https://img.shields.io/badge/Data%20Analysis%20using%20MS%20Excel-217346?style=flat-square)
+![Python](https://img.shields.io/badge/Python%20Foundation-3776AB?style=flat-square&logo=python&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Development-FF6F00?style=flat-square)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harishp-17&color=00f2fe&style=flat-square&label=Access%20Count" alt="Profile Views" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harishp-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&include_all_commits=true" alt="stats"/>
+</td>
+<td align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishp-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&langs_count=8" alt="top languages"/>
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=harishp-17&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6F00&currStreakLabel=00F7FF" alt="streak" width="85%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishp-17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FFFFFF" alt="activity graph" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=harishp-17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" width="95%"/>
+
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🔭 Building data & business-analytics projects with Python, SQL and dashboards
+- 📚 Deepening skills in **ML for finance** and **BI storytelling**
+- 🤝 Looking for **Data Analyst / Business Analyst** opportunities
+- 💡 Ask me about: stock fundamentals, KPI dashboards, FastAPI + WebSockets
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/harishp-17/harishp-17/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/harish-p-137857300"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:phari9074@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/harishp-17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Let's+turn+data+into+decisions+together+%F0%9F%93%8A;Thanks+for+stopping+by!+%E2%AD%90" alt="footer typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
